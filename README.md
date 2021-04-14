@@ -8,6 +8,7 @@
 
 ----
 
+
 Sloop monitors Kubernetes, recording histories of events and resource state changes 
 and providing visualizations to aid in debugging past events.  
 
